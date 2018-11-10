@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prova-ListaAlunos</string>
+    <string name="headerText">Lista de alunos</string>
+    <string name="visor" />
+    <string name="aluno" />
+    <string name="nota" />
+</resources>
